@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mvasconcellosr\\source\\repos\\SortByAlphabeticOrder\\SortByAlphabeticOrder\\SortByAlphabeticOrder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mvasconcellosr\\source\\repos\\SortByAlphabeticOrder\\SortByAlphabeticOrder\\SortByAlphabeticOrder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mvasconcellosr\\source\\repos\\SortByAlphabeticOrder\\SortByAlphabeticOrder\\SortByAlphabeticOrder.csproj",
+        "projectName": "SortByAlphabeticOrder",
+        "projectPath": "C:\\Users\\mvasconcellosr\\source\\repos\\SortByAlphabeticOrder\\SortByAlphabeticOrder\\SortByAlphabeticOrder.csproj",
+        "packagesPath": "C:\\Users\\mvasconcellosr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mvasconcellosr\\source\\repos\\SortByAlphabeticOrder\\SortByAlphabeticOrder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mvasconcellosr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

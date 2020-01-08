@@ -1,0 +1,11 @@
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\bin\Debug\netcoreapp2.1\SortByAlphabeticOrder.deps.json
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\bin\Debug\netcoreapp2.1\SortByAlphabeticOrder.runtimeconfig.json
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\bin\Debug\netcoreapp2.1\SortByAlphabeticOrder.runtimeconfig.dev.json
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\bin\Debug\netcoreapp2.1\SortByAlphabeticOrder.dll
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\bin\Debug\netcoreapp2.1\SortByAlphabeticOrder.pdb
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\obj\Debug\netcoreapp2.1\SortByAlphabeticOrder.csprojAssemblyReference.cache
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\obj\Debug\netcoreapp2.1\SortByAlphabeticOrder.csproj.CoreCompileInputs.cache
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\obj\Debug\netcoreapp2.1\SortByAlphabeticOrder.AssemblyInfoInputs.cache
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\obj\Debug\netcoreapp2.1\SortByAlphabeticOrder.AssemblyInfo.cs
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\obj\Debug\netcoreapp2.1\SortByAlphabeticOrder.dll
+C:\Users\mvasconcellosr\source\repos\SortByAlphabeticOrder\SortByAlphabeticOrder\obj\Debug\netcoreapp2.1\SortByAlphabeticOrder.pdb
