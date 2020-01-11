@@ -1,0 +1,11 @@
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\obj\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\obj\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\obj\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.AssemblyInfoInputs.cache
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\obj\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.AssemblyInfo.cs
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\bin\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.deps.json
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\bin\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.runtimeconfig.json
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\bin\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.runtimeconfig.dev.json
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\bin\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.dll
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\bin\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.pdb
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\obj\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.dll
+C:\Users\Marcel\source\repos\SumDigitsInStringWithRegex\SumDigitsInStringWithRegex\obj\Debug\netcoreapp2.1\SumDigitsInStringWithRegex.pdb

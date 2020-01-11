@@ -1,0 +1,7 @@
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\bin\Debug\CalculateTaxOwed.exe.config
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\bin\Debug\CalculateTaxOwed.exe
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\bin\Debug\CalculateTaxOwed.pdb
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\obj\Debug\CalculateTaxOwed.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\obj\Debug\CalculateTaxOwed.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\obj\Debug\CalculateTaxOwed.exe
+C:\Users\Marcel\source\repos\CalculateTaxOwed\CalculateTaxOwed\obj\Debug\CalculateTaxOwed.pdb

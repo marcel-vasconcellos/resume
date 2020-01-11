@@ -1,0 +1,7 @@
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\bin\Debug\StudentsGrades.exe.config
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\bin\Debug\StudentsGrades.exe
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\bin\Debug\StudentsGrades.pdb
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.exe
+C:\Users\Marcel\source\repos\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.pdb

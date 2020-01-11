@@ -1,0 +1,7 @@
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\bin\Debug\SumDigitsInString.exe.config
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\bin\Debug\SumDigitsInString.exe
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\bin\Debug\SumDigitsInString.pdb
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\obj\Debug\SumDigitsInString.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\obj\Debug\SumDigitsInString.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\obj\Debug\SumDigitsInString.exe
+C:\Users\Marcel\source\repos\SumDigitsInString\SumDigitsInString\obj\Debug\SumDigitsInString.pdb
